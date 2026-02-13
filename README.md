@@ -73,7 +73,7 @@ Designed and managed email campaigns to nurture leads and increase engagement.
 - Google Analytics
 - Google Search Console
 - Meta Business Suite
-- Email Marketing Platform (Mailchimp / Brevo / etc.)
+- Email Marketing Platform (Mailchimp / Brevo /)
 - WordPress
 
 ## Outcome
